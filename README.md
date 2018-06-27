@@ -1,6 +1,4 @@
 # ringbuffer
---
-    import "salgo/ringbuffer"
 
 Simple RingBuffer pacakge Ringbuffer is non blocking for readers and writers,
 writers will overwrite older data in a circular fashion. Readers will read from
