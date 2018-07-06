@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sahmad98/go-ringbuffer.svg?branch=master)](https://travis-ci.org/sahmad98/go-ringbuffer)
+
 # ringbuffer
 
 Simple RingBuffer pacakge Ringbuffer is non blocking for readers and writers,
